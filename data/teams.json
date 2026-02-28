@@ -1,0 +1,754 @@
+{
+    "teams": [
+        {
+            "name": "Real Madrid",
+            "attack": 91,
+            "defense": 86,
+            "midfield": 89,
+            "elo": 1580,
+            "players": [
+                {
+                    "name": "Thibaut Courtois",
+                    "position": "GK",
+                    "rating": 91,
+                    "number": 1
+                },
+                {
+                    "name": "Andriy Lunin",
+                    "position": "GK",
+                    "rating": 85,
+                    "number": 13
+                },
+                {
+                    "name": "Fran González",
+                    "position": "GK",
+                    "rating": 75,
+                    "number": 26
+                },
+                {
+                    "name": "Dani Carvajal",
+                    "position": "DF",
+                    "rating": 84,
+                    "number": 2
+                },
+                {
+                    "name": "Éder Militão",
+                    "position": "DF",
+                    "rating": 87,
+                    "number": 3
+                },
+                {
+                    "name": "David Alaba",
+                    "position": "DF",
+                    "rating": 87,
+                    "number": 4
+                },
+                {
+                    "name": "Trent Alexander-Arnold",
+                    "position": "DF",
+                    "rating": 86,
+                    "number": 12
+                },
+                {
+                    "name": "Álvaro Carreras",
+                    "position": "DF",
+                    "rating": 80,
+                    "number": 18
+                },
+                {
+                    "name": "Fran García",
+                    "position": "DF",
+                    "rating": 82,
+                    "number": 20
+                },
+                {
+                    "name": "Antonio Rüdiger",
+                    "position": "DF",
+                    "rating": 85,
+                    "number": 22
+                },
+                {
+                    "name": "Dean Huijsen",
+                    "position": "DF",
+                    "rating": 82,
+                    "number": 24
+                },
+                {
+                    "name": "Jude Bellingham",
+                    "position": "MF",
+                    "rating": 92,
+                    "number": 5
+                },
+                {
+                    "name": "Eduardo Camavinga",
+                    "position": "MF",
+                    "rating": 88,
+                    "number": 6
+                },
+                {
+                    "name": "Federico Valverde",
+                    "position": "MF",
+                    "rating": 87,
+                    "number": 8
+                },
+                {
+                    "name": "Aurélien Tchouaméni",
+                    "position": "MF",
+                    "rating": 89,
+                    "number": 14
+                },
+                {
+                    "name": "Arda Güler",
+                    "position": "MF",
+                    "rating": 83,
+                    "number": 15
+                },
+                {
+                    "name": "Dani Ceballos",
+                    "position": "MF",
+                    "rating": 80,
+                    "number": 19
+                },
+                {
+                    "name": "Vinícius Júnior",
+                    "position": "FW",
+                    "rating": 90,
+                    "number": 7
+                },
+                {
+                    "name": "Kylian Mbappé",
+                    "position": "FW",
+                    "rating": 95,
+                    "number": 10
+                },
+                {
+                    "name": "Rodrygo",
+                    "position": "FW",
+                    "rating": 84,
+                    "number": 11
+                },
+                {
+                    "name": "Endrick",
+                    "position": "FW",
+                    "rating": 86,
+                    "number": 9
+                },
+                {
+                    "name": "Gonzalo García",
+                    "position": "FW",
+                    "rating": 80,
+                    "number": 16
+                },
+                {
+                    "name": "Brahim Díaz",
+                    "position": "FW",
+                    "rating": 82,
+                    "number": 21
+                }
+            ]
+        },
+        {
+            "name": "Manchester City",
+            "attack": 93,
+            "defense": 89,
+            "midfield": 91,
+            "elo": 1630,
+            "players": [
+                {
+                    "name": "James Trafford",
+                    "position": "GK",
+                    "rating": 85,
+                    "number": 1
+                },
+                {
+                    "name": "Marcus Bettinelli",
+                    "position": "GK",
+                    "rating": 80,
+                    "number": 13
+                },
+                {
+                    "name": "Gianluigi Donnarumma",
+                    "position": "GK",
+                    "rating": 88,
+                    "number": 25
+                },
+                {
+                    "name": "Rúben Dias",
+                    "position": "DF",
+                    "rating": 90,
+                    "number": 3
+                },
+                {
+                    "name": "John Stones",
+                    "position": "DF",
+                    "rating": 87,
+                    "number": 5
+                },
+                {
+                    "name": "Nathan Aké",
+                    "position": "DF",
+                    "rating": 85,
+                    "number": 6
+                },
+                {
+                    "name": "Marc Guéhi",
+                    "position": "DF",
+                    "rating": 85,
+                    "number": 15
+                },
+                {
+                    "name": "Rayan Aït-Nouri",
+                    "position": "DF",
+                    "rating": 83,
+                    "number": 21
+                },
+                {
+                    "name": "Joško Gvardiol",
+                    "position": "DF",
+                    "rating": 88,
+                    "number": 24
+                },
+                {
+                    "name": "Abdukodir Khusanov",
+                    "position": "DF",
+                    "rating": 80,
+                    "number": 45
+                },
+                {
+                    "name": "Rico Lewis",
+                    "position": "DF",
+                    "rating": 82,
+                    "number": 82
+                },
+                {
+                    "name": "Tijjani Reijnders",
+                    "position": "MF",
+                    "rating": 86,
+                    "number": 4
+                },
+                {
+                    "name": "Mateo Kovačić",
+                    "position": "MF",
+                    "rating": 87,
+                    "number": 8
+                },
+                {
+                    "name": "Rayan Cherki",
+                    "position": "MF",
+                    "rating": 86,
+                    "number": 10
+                },
+                {
+                    "name": "Nico González",
+                    "position": "MF",
+                    "rating": 85,
+                    "number": 14
+                },
+                {
+                    "name": "Rodri",
+                    "position": "MF",
+                    "rating": 91,
+                    "number": 16
+                },
+                {
+                    "name": "Bernardo Silva",
+                    "position": "MF",
+                    "rating": 89,
+                    "number": 20
+                },
+                {
+                    "name": "Savinho",
+                    "position": "MF",
+                    "rating": 83,
+                    "number": 26
+                },
+                {
+                    "name": "Sverre Nypan",
+                    "position": "MF",
+                    "rating": 80,
+                    "number": 41
+                },
+                {
+                    "name": "Antoine Semenyo",
+                    "position": "FW",
+                    "rating": 86,
+                    "number": 42
+                },
+                {
+                    "name": "Phil Foden",
+                    "position": "FW",
+                    "rating": 89,
+                    "number": 47
+                },
+                {
+                    "name": "Erling Haaland",
+                    "position": "FW",
+                    "rating": 95,
+                    "number": 9
+                }
+            ]
+        },
+        {
+            "name": "FC Barcelona",
+            "attack": 89,
+            "defense": 85,
+            "midfield": 88,
+            "elo": 1540,
+            "players": [
+                {
+                    "name": "Marc-Andre ter Stegen",
+                    "position": "GK",
+                    "rating": 89,
+                    "number": 1
+                },
+                {
+                    "name": "Ander Astralaga",
+                    "position": "GK",
+                    "rating": 76,
+                    "number": 26
+                },
+                {
+                    "name": "Jules Koundé",
+                    "position": "DF",
+                    "rating": 86,
+                    "number": 23
+                },
+                {
+                    "name": "Ronald Araujo",
+                    "position": "DF",
+                    "rating": 87,
+                    "number": 4
+                },
+                {
+                    "name": "Andreas Christensen",
+                    "position": "DF",
+                    "rating": 84,
+                    "number": 15
+                },
+                {
+                    "name": "Alejandro Balde",
+                    "position": "DF",
+                    "rating": 83,
+                    "number": 3
+                },
+                {
+                    "name": "Fermín López",
+                    "position": "MF",
+                    "rating": 86,
+                    "number": 8
+                },
+                {
+                    "name": "Pedri",
+                    "position": "MF",
+                    "rating": 88,
+                    "number": 21
+                },
+                {
+                    "name": "Gavi",
+                    "position": "MF",
+                    "rating": 85,
+                    "number": 6
+                },
+                {
+                    "name": "Raphinha",
+                    "position": "FW",
+                    "rating": 86,
+                    "number": 11
+                },
+                {
+                    "name": "Robert Lewandowski",
+                    "position": "FW",
+                    "rating": 92,
+                    "number": 9
+                },
+                {
+                    "name": "Ajay Tavares",
+                    "position": "FW",
+                    "rating": 80,
+                    "number": 7
+                }
+            ]
+        },
+        {
+            "name": "Bayern Munich",
+            "attack": 90,
+            "defense": 87,
+            "midfield": 88,
+            "elo": 1580,
+            "players": [
+                {
+                    "name": "Manuel Neuer",
+                    "position": "GK",
+                    "rating": 89,
+                    "number": 1
+                },
+                {
+                    "name": "Rafael",
+                    "position": "GK",
+                    "rating": 76,
+                    "number": 23
+                },
+                {
+                    "name": "Alphonso Davies",
+                    "position": "DF",
+                    "rating": 87,
+                    "number": 19
+                },
+                {
+                    "name": "Matthijs de Ligt",
+                    "position": "DF",
+                    "rating": 88,
+                    "number": 4
+                },
+                {
+                    "name": "Dayot Upamecano",
+                    "position": "DF",
+                    "rating": 86,
+                    "number": 2
+                },
+                {
+                    "name": "Luis Díaz",
+                    "position": "DF",
+                    "rating": 86,
+                    "number": 11
+                },
+                {
+                    "name": "Joshua Kimmich",
+                    "position": "MF",
+                    "rating": 90,
+                    "number": 6
+                },
+                {
+                    "name": "Leon Goretzka",
+                    "position": "MF",
+                    "rating": 88,
+                    "number": 8
+                },
+                {
+                    "name": "Jamal Musiala",
+                    "position": "MF",
+                    "rating": 87,
+                    "number": 42
+                },
+                {
+                    "name": "Leroy Sané",
+                    "position": "FW",
+                    "rating": 88,
+                    "number": 10
+                },
+                {
+                    "name": "Harry Kane",
+                    "position": "FW",
+                    "rating": 94,
+                    "number": 9
+                },
+                {
+                    "name": "Thomas Müller",
+                    "position": "FW",
+                    "rating": 88,
+                    "number": 25
+                }
+            ]
+        },
+        {
+            "name": "Liverpool",
+            "attack": 90,
+            "defense": 87,
+            "midfield": 88,
+            "elo": 1560,
+            "players": [
+                {
+                    "name": "Alisson Becker",
+                    "position": "GK",
+                    "rating": 89,
+                    "number": 1
+                },
+                {
+                    "name": "Virgil van Dijk",
+                    "position": "DF",
+                    "rating": 91,
+                    "number": 4
+                },
+                {
+                    "name": "Ibrahima Konaté",
+                    "position": "DF",
+                    "rating": 87,
+                    "number": 5
+                },
+                {
+                    "name": "Andy Robertson",
+                    "position": "DF",
+                    "rating": 86,
+                    "number": 26
+                },
+                {
+                    "name": "Trent Alexander-Arnold",
+                    "position": "DF",
+                    "rating": 88,
+                    "number": 66
+                },
+                {
+                    "name": "Alexis Mac Allister",
+                    "position": "MF",
+                    "rating": 88,
+                    "number": 10
+                },
+                {
+                    "name": "Dominik Szoboszlai",
+                    "position": "MF",
+                    "rating": 87,
+                    "number": 8
+                },
+                {
+                    "name": "Curtis Jones",
+                    "position": "MF",
+                    "rating": 84,
+                    "number": 17
+                },
+                {
+                    "name": "Mohamed Salah",
+                    "position": "FW",
+                    "rating": 91,
+                    "number": 11
+                },
+                {
+                    "name": "Darwin Núñez",
+                    "position": "FW",
+                    "rating": 87,
+                    "number": 9
+                },
+                {
+                    "name": "Luis Díaz",
+                    "position": "FW",
+                    "rating": 87,
+                    "number": 7
+                }
+            ]
+        },
+        {
+            "name": "Paris Saint-Germain",
+            "attack": 92,
+            "defense": 84,
+            "midfield": 86,
+            "elo": 1550,
+            "players": [
+                {
+                    "name": "Gianluigi Donnarumma",
+                    "position": "GK",
+                    "rating": 89,
+                    "number": 99
+                },
+                {
+                    "name": "Achraf Hakimi",
+                    "position": "DF",
+                    "rating": 87,
+                    "number": 2
+                },
+                {
+                    "name": "Marquinhos",
+                    "position": "DF",
+                    "rating": 89,
+                    "number": 5
+                },
+                {
+                    "name": "Lucas Hernandez",
+                    "position": "DF",
+                    "rating": 85,
+                    "number": 21
+                },
+                {
+                    "name": "Nuno Mendes",
+                    "position": "DF",
+                    "rating": 84,
+                    "number": 25
+                },
+                {
+                    "name": "Vitinha",
+                    "position": "MF",
+                    "rating": 87,
+                    "number": 17
+                },
+                {
+                    "name": "Warren Zaire‑Emery",
+                    "position": "MF",
+                    "rating": 84,
+                    "number": 33
+                },
+                {
+                    "name": "Fabian Ruiz",
+                    "position": "MF",
+                    "rating": 85,
+                    "number": 8
+                },
+                {
+                    "name": "Kylian Mbappé",
+                    "position": "FW",
+                    "rating": 96,
+                    "number": 7
+                },
+                {
+                    "name": "Ousmane Dembélé",
+                    "position": "FW",
+                    "rating": 89,
+                    "number": 10
+                },
+                {
+                    "name": "Gonçalo Ramos",
+                    "position": "FW",
+                    "rating": 86,
+                    "number": 9
+                }
+            ]
+        },
+        {
+            "name": "Inter Milan",
+            "attack": 88,
+            "defense": 88,
+            "midfield": 87,
+            "elo": 1550,
+            "players": [
+                {
+                    "name": "Yann Sommer",
+                    "position": "GK",
+                    "rating": 88,
+                    "number": 1
+                },
+                {
+                    "name": "Raffaele Di Gennaro",
+                    "position": "GK",
+                    "rating": 74,
+                    "number": 12
+                },
+                {
+                    "name": "Denzel Dumfries",
+                    "position": "DF",
+                    "rating": 86,
+                    "number": 2
+                },
+                {
+                    "name": "Stefan de Vrij",
+                    "position": "DF",
+                    "rating": 85,
+                    "number": 6
+                },
+                {
+                    "name": "Francesco Acerbi",
+                    "position": "DF",
+                    "rating": 84,
+                    "number": 15
+                },
+                {
+                    "name": "Manuel Akanji",
+                    "position": "DF",
+                    "rating": 87,
+                    "number": 25
+                },
+                {
+                    "name": "Nicolò Barella",
+                    "position": "MF",
+                    "rating": 88,
+                    "number": 23
+                },
+                {
+                    "name": "Hakan Çalhanoğlu",
+                    "position": "MF",
+                    "rating": 87,
+                    "number": 20
+                },
+                {
+                    "name": "Henrikh Mkhitaryan",
+                    "position": "MF",
+                    "rating": 84,
+                    "number": 22
+                },
+                {
+                    "name": "Lautaro Martínez",
+                    "position": "FW",
+                    "rating": 90,
+                    "number": 10
+                },
+                {
+                    "name": "Marcus Thuram",
+                    "position": "FW",
+                    "rating": 87,
+                    "number": 9
+                }
+            ]
+        },
+        {
+            "name": "Juventus",
+            "attack": 86,
+            "defense": 87,
+            "midfield": 86,
+            "elo": 1530,
+            "players": [
+                {
+                    "name": "Mattia Perin",
+                    "position": "GK",
+                    "rating": 87,
+                    "number": 1
+                },
+                {
+                    "name": "Michele Di Gregorio",
+                    "position": "GK",
+                    "rating": 81,
+                    "number": 16
+                },
+                {
+                    "name": "Carlo Pinsoglio",
+                    "position": "GK",
+                    "rating": 75,
+                    "number": 23
+                },
+                {
+                    "name": "Bremer",
+                    "position": "DF",
+                    "rating": 88,
+                    "number": 3
+                },
+                {
+                    "name": "Federico Gatti",
+                    "position": "DF",
+                    "rating": 85,
+                    "number": 4
+                },
+                {
+                    "name": "Lloyd Kelly",
+                    "position": "DF",
+                    "rating": 83,
+                    "number": 6
+                },
+                {
+                    "name": "Danilo",
+                    "position": "DF",
+                    "rating": 82,
+                    "number": 2
+                },
+                {
+                    "name": "Andrea Cambiaso",
+                    "position": "DF",
+                    "rating": 84,
+                    "number": 27
+                },
+                {
+                    "name": "Manuel Locatelli",
+                    "position": "MF",
+                    "rating": 84,
+                    "number": 5
+                },
+                {
+                    "name": "Adrien Rabiot",
+                    "position": "MF",
+                    "rating": 86,
+                    "number": 25
+                },
+                {
+                    "name": "Dusan Vlahović",
+                    "position": "FW",
+                    "rating": 89,
+                    "number": 9
+                }
+            ]
+        }
+    ]
+}
